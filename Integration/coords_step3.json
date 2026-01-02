@@ -1,0 +1,28 @@
+{
+    "box_rois": [
+        {
+            "top": 1284,
+            "left": 1894,
+            "width": 48,
+            "height": 42
+        },
+        {
+            "top": 1284,
+            "left": 1951,
+            "width": 48,
+            "height": 42
+        },
+        {
+            "top": 1284,
+            "left": 2008,
+            "width": 48,
+            "height": 42
+        },
+        {
+            "top": 1284,
+            "left": 2065,
+            "width": 48,
+            "height": 42
+        }
+    ]
+}
