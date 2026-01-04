@@ -1,0 +1,30 @@
+{
+    "anchor_roi": {
+        "top": 1359,
+        "left": 116,
+        "width": 295,
+        "height": 31
+    },
+    "anchor_data": "Balance Total Bet",
+    "central_roi": {
+        "top": 520,
+        "left": 952,
+        "width": 647,
+        "height": 397
+    },
+    "stage1_data": {
+        "trigger": "Inactivity"
+    },
+    "stage2_data": "Session",
+    "stage3_img": "pragmatic_logo.png",
+    "stage4_roi": {
+        "top": 430,
+        "left": 516,
+        "width": 562,
+        "height": 458
+    },
+    "stage4_data": {
+        "trigger": "Stake Roulette"
+    },
+    "stage5_img": "btn_fullscreen.png"
+}
